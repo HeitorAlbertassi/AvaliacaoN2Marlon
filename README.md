@@ -168,4 +168,3 @@ Content-Type: application/json
 - A fila SQS processa mensagens automaticamente em background
 - Horários devem ser em intervalos de 30 minutos
 - O sistema valida conflitos e retorna horários disponíveis quando necessário
-
