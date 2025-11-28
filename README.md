@@ -2,7 +2,11 @@
 
 Sistema de agendamento de barbearia implementado em Python, simulando uma arquitetura AWS com Flask, TinyDB e filas de processamento.
 
-## Arquitetura
+## Arquitetura Completa
+
+<img width="1243" height="733" alt="image" src="https://github.com/user-attachments/assets/f07ef2c1-6bd0-414e-b553-45c29c2934a7" />
+
+## Arquitetura para o Código
 
 <img width="973" height="392" alt="image" src="https://github.com/user-attachments/assets/dfa4e2f7-adb0-4fc5-b02f-03657bff1177" />
 
