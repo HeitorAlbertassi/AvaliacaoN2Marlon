@@ -4,12 +4,7 @@ Sistema de agendamento de barbearia implementado em Python, simulando uma arquit
 
 ## Arquitetura
 
-```
-Cliente -> API Gateway (Flask) -> AcessoCliente (Lambda) -> Tabela_Cliente (TinyDB)
-                                 -> DefineAgendamento (Lambda) -> ProcessarAgendamento (SQS)
-                                 -> ValidaAgendamento (Lambda) -> Tabela_Agendamento (TinyDB)
-                                 -> NotificarAtividadeAgendamento (Lambda) -> NotificaAgendamento (SNS)
-```
+<img width="973" height="392" alt="image" src="https://github.com/user-attachments/assets/dfa4e2f7-adb0-4fc5-b02f-03657bff1177" />
 
 ## Componentes
 
